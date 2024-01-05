@@ -14,3 +14,17 @@ Verification via GPG: The man in the middle can't hurt you anymore! This install
 Easy registration: This installer automatically registers the app for you in your menus, when you're done just launch the Mullvad Browser from your preferred Desktop!
 
 Minimal: Installer sits ~2KB of data, and the script is nice and easy to read. No unneeded ifs, ands, or buts here!
+
+Please Note: It is outside the scope of this script to modify the Mullvad Browser it's binaries in any way, please do not come here with Mullvad Browser issues nor ask me to change the script to modify the binaries or .desktop file in any way.
+
+Legal: I do not own Mullvad or Mullvad Browser, I am not an official contributer in any way, I just am a person who got tired of the tedium of reinstalling Mullvad Browser for OS upgrades. I do not guarantee anything in any form and am not responsible for anything that happens to your computer after (or during) usage of this script. Please do not come after me after you've suffered:
+
+Acts of an enraged diety demanding your cereal
+
+Mullvad Moles breaking into your home
+
+A slight sprinkling of chip dust that never seems to go away
+
+The singularity
+
+... Jokes aside I am not legally responsible for how you use this script nor what happens to your computer. Please read the SH file to make sure you know what it is doing.
