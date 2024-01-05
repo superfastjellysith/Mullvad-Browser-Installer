@@ -8,5 +8,9 @@ This installer remedies all of these problems, the installer presents all of the
 
 Features:
 Downloads Mullvad Browser using curl --tlsv1.3: this option forces encryption on downloads and is the recommended option for downloading files by the Kicksecure Project.
+
 Verification via GPG: The man in the middle can't hurt you anymore! This installer automatically downloads the Tor Browser Devs GPG key and verifies your Mullvad Browser binaries before extracting.
+
 Easy registration: This installer automatically registers the app for you in your menus, when you're done just launch the Mullvad Browser from your preferred Desktop!
+
+Minimal: Installer sits ~2KB of data, and the script is nice and easy to read. No unneeded ifs, ands, or buts here!
